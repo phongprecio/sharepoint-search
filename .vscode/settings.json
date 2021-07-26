@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "json.schemas": [
+    
+    ],
+    "terminal.integrated.profiles.windows": {
+        "Cmder": {
+          "path": "${env:windir}\\System32\\cmd.exe",
+          "args": ["/k", "D:\\Software\\cmder\\vendor\\bin\\vscode_init.cmd"]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "Cmder",
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "workbench.startupEditor": "none"
+}
